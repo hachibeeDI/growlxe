@@ -1,0 +1,11 @@
+{
+  "name": "growlxe",
+  "url" : "https://github.com/hachibeeDI/growlxe/",
+  "license": "MIT",
+  "tags": ["cross"],
+  "description": "kick process of a growlnotify",
+  "version": "0.0.1",
+  "releasenote": "Initial release, everything is working correctly",
+  "contributors": ["OGURA_Daiki"],
+  "dependencies": {}
+}
